@@ -7,7 +7,7 @@ using namespace std;
 // IMPLEMENTASI ALGORITMA DALAM C++
 // ========================================
 
-// Nama Lengkap :
+// Nama Lengkap :Muhamad Fauzi
 // Kelas        :
 // Nomor Absen  :
 // Judul Program:
